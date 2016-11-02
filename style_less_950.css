@@ -1,0 +1,16 @@
+div.main {
+	height: 1000px;
+}
+header span {
+	width:35%;
+	padding: 93px 0px 0 0;
+}
+header input {
+	height: 32px;
+	font-size: 70%;
+	width:60%;
+}
+#nxt {
+    background: url(images/next-mob.png);
+	background-repeat:no-repeat;
+}
